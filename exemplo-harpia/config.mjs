@@ -1,2 +1,2 @@
-// Valor criado offline para este teste. Não é aceito por nenhum serviço.
-export const api_key = "harpia_fixture_Lgsde3wP-1jrqZUAtlBN97Lia70UPTv8LFc";
+// Credencial revogada antes de ser incluída neste teste.
+export const AI_API_KEY = "AQ.Ab8RN6JJ1t-CIowej5wuDulpDkx275Yvg-R48N2U-mGiZu";
